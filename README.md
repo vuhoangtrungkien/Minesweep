@@ -9,9 +9,9 @@ Người chơi sẽ được đưa ra 1 ma trận gồm 10 hàng và 10 cột, t
 - 3 chế độ chơi ở ma trận 10*10:
   + Dễ (Easy): 10 quả mìn được setup ngẫu nhiên
   + Trung bình (Medium): 15 quả mìn được setup ngẫu nhiên
-  + Khó (Easy): 20 quả mìn được setup ngẫu nhiên
+  + Khó (Hard): 20 quả mìn được setup ngẫu nhiên
 - Có hiển thị tổng thời gian ở các nước đi
-- Có hiển thị số cờ đã đặt trên ma trận
+- Có hiển thị số cờ (F) đã đặt trên ma trận
 
 
 \nPhát triển trong tương lai:
