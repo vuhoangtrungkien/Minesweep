@@ -19,3 +19,5 @@ Người chơi sẽ được đưa ra 1 ma trận gồm 10 hàng và 10 cột, t
 - Sử dụng SDL2 tạo âm thanh, hoạt ảnh cho trò chơi thay vì text ở thời điểm hiện tại
 
 (file mines2.cpp là code game chính thức)
+
+Nguồn tham khảo: https://www.geeksforgeeks.org/cpp-implementation-minesweeper-game/
