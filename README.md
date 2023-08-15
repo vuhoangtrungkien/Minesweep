@@ -15,7 +15,7 @@ Người chơi sẽ được đưa ra 1 ma trận gồm 10 hàng và 10 cột, t
 
 
 \nPhát triển trong tương lai:
-- Mở rộng phạm vi ma trận (có thể lên 20*20 hoặc lớn hơn)
+- Mở rộng phạm vi ma trận tùy thuộc vào độ khó tăng dần (có thể lên tới 20*20 hoặc lớn hơn)
 - Sử dụng SDL2 tạo âm thanh, hoạt ảnh cho trò chơi thay vì text ở thời điểm hiện tại
 
 (file mines2.cpp là code game chính thức)
